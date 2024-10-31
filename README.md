@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Ibrahim Saber!
-### 🧑‍💻 Fresh graduate with a degree in computer science from Ahram Canadian University
+### 🎓 Fresh graduate with a degree in computer science from Ahram Canadian University
+### 🧑‍💻 Competitive Programmer [Codeforces](https://codeforces.com/profile/IbrahimSaber)
 
 #
 
